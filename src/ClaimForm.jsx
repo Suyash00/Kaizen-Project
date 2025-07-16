@@ -66,8 +66,8 @@ function ClaimForm() {
             <div className="checkbox-group">
               <label style={{ display: 'inline-block', fontSize: '14px', lineHeight: '1.5', color: '#fff' }}>
                 <input type="checkbox" style={{ marginRight: '8px' }} />
-                I agree to the <a href="#" style={{ color: '#fff', textDecoration: 'underline' }}>privacy policy</a> and 
-                <a href="#" style={{ color: '#fff', textDecoration: 'underline', marginLeft: '4px' }}>disclaimer</a> and give my express written consent to be contacted regarding my case options. I understand that I may be contacted using automatic dialing equipment. Message and data rates may apply. My consent does not require purchase. This is Legal advertising.
+                I agree to the <a href="/policy" style={{ color: '#fff', textDecoration: 'underline' }}>privacy policy</a> and 
+                <a href="/disclaimer" style={{ color: '#fff', textDecoration: 'underline', marginLeft: '4px' }}>disclaimer</a> and give my express written consent to be contacted regarding my case options. I understand that I may be contacted using automatic dialing equipment. Message and data rates may apply. My consent does not require purchase. This is Legal advertising.
               </label>
               <label style={{ display: 'inline-block', fontSize: '14px', lineHeight: '1.5', color: '#fff' }}>
                 <input type="checkbox" style={{ marginRight: '8px' }} />
